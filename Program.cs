@@ -58,7 +58,7 @@ namespace recursion_intro_class
         //3
         //ממשו בצורה רקרוסיבית את פונקציית החזקה המקבלת בסיס וחזקה
 
-        static int Power(int a, int b) //implement
+        static int Power(int base, int power) //implement
         {
             return 0;
             //base case
